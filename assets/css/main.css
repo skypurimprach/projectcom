@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    @import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200;300;400;500;600;700&family=Sriracha&display=swap');
+    html{
+        font-family: Athiti, sans-serif;
+        /* @apply font-; */
+    }
+}
